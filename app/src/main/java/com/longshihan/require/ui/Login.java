@@ -22,7 +22,7 @@ public class Login extends BaseActivity {
 
     @Override
     protected int getLayout() {
+        // http://www.zcool.com.cn/work/ZMTY3MjY2NjA=.html
         return R.layout.activity_login;
     }
-
 }
